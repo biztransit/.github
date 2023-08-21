@@ -11,8 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-(biztransit.com)
-(thebestseocompanyever.com)
-(bcz.com)
-(bczcentral.com)
-(cloudxaas.com)
+[bizransit](biztransit.com)
+[tbsce](thebestseocompanyever.com)
+[bcz.com](bcz.com)
+[bczcentral](bczcentral.com)
+[cloudxaas](cloudxaas.com)
